@@ -4,8 +4,8 @@
 
 Коты 🐱
 
-![](https://github.com/tugutova/memoryCardGameProject/blob/main/memorycardgamedogs3.gif)memorycardgamedogs3.gif
+![](https://github.com/tugutova/memoryCardGameProject/blob/main/memorycardgamecats3.gif)
 
 Собаки 🐶
 
-![](https://github.com/tugutova/memoryCardGameProject/blob/main/memorycardgamedogs3.gif)memorycardgamecats3.gif
+![](https://github.com/tugutova/memoryCardGameProject/blob/main/memorycardgamedogs3.gif)
